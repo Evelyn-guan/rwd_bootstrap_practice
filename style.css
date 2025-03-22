@@ -166,7 +166,7 @@ button {
 /* ----main heading---- */
 .main-heading-sec {
     padding-block: 150px;
-    background: url(./images/bg1.png) no-repeat;
+    background: url(images/bg1.png) no-repeat;
     background-size: cover;
 
     .container{
@@ -226,7 +226,7 @@ button {
 /* ----main content---- */
 
 .main-content {
-    background: url(./images/bg.png) no-repeat;
+    background: url(images/bg.png) no-repeat;
     background-size: cover;
 }
 
